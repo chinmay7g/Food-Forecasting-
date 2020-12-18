@@ -6,6 +6,8 @@ Too much inventory in the warehouse means more risk of wastage, and not enough c
 
 In this project, it is analysed which cuisine is most favored from mulitple aspects. 
 
+A forecast using Machine Learning model is done which understands optimally and enables restaurants to effectivey manage their inventory.
+
 ![food1](https://user-images.githubusercontent.com/55191934/102586730-ad7fc680-4130-11eb-9590-7993d974f0eb.PNG)
 
 Figure 1: We can understand the type of cuisines and how they are related to the number of orders dispatched and checkout price. 
